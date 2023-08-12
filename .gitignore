@@ -3,6 +3,7 @@
 .idea/
 
 dist/
+.turbo
 
 # dependencies
 /node_modules
